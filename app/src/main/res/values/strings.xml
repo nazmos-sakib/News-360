@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">News 360</string>
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="breaking_news">Breaking News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">de442bfb9d2d4e4ba6e931b29720ed2c</string>
+    <string name="title">TITLE</string>
+    <string name="source">SOURCE</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="published_at">PUBLISHED AT</string>
+    <string name="image">image</string>
+    <string name="add_to_favorite">add to favorite</string>
+</resources>
